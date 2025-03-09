@@ -1,4 +1,4 @@
-# Walmart Time-Series Forecasting using ARIMA and Exponential Smoothing
+# Time-Series Forecasting using ARIMA and Exponential Smoothing
 
 ## Problem Statement
 
